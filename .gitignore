@@ -3,3 +3,7 @@
 Homestead.yaml
 Homestead.json
 .env
+.idea/modules.xml
+.idea/test.iml
+.idea/vcs.xml
+.idea/workspace.xml
